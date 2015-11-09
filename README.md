@@ -1,7 +1,7 @@
 # Devoxx 2015: BeClojure School
 
 
-Code and slides for the [BeClojure School: A gentle introduction to Clojure](http://cfp.devoxx.be/2015/talk/BSR-7365/BeClojure_School:_A_gentle_introduction_to_Clojure) talk given at Devoxx.
+Code and [slides](https://github.com/beclojure/devoxx2015/blob/master/slides.pdf) for the [BeClojure School: A gentle introduction to Clojure](http://cfp.devoxx.be/2015/talk/BSR-7365/BeClojure_School:_A_gentle_introduction_to_Clojure) talk given at Devoxx.
 
 ## Usage
 
